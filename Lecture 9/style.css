@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box1{
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+    background-color: rgb(232, 199, 55);
+}
+.box2{
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+    background-color: rgb(55, 149, 232);
+}
+
+.box3{
+    width: 80px;
+    height: 80px;
+    border-radius: 8px;
+    background-color: rgb(246, 21, 21);
+}
+
+.box3 p{
+    font-size: 1rem;
+    text-align: center;
+    margin-top: 35%;
+}
+
+section{
+    height: 700px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    
+}
