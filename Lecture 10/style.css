@@ -1,0 +1,55 @@
+.frame4{
+    position: absolute;
+    width: 430px;
+    height: 95px;
+    left: 0px;
+    top: 0px;
+}
+
+.phoneSize{
+    position: relative;
+    width: 430px;
+    height: 932px;
+    background: linear-gradient(180deg, #FFFFFF 26%, #DDDDDD 61%, #A9A9A9 81%, #797979 100%);
+    border-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+.group5{
+    position: absolute;
+    width: 262px;
+    height: 104px;
+    left: 84px;
+    top: 43px;
+
+    filter: drop-shadow(0px 4px 4px rgba(29, 24, 24, 0.19));
+
+}
+
+.colombo{
+    position: absolute;
+width: 262px;
+height: 104px;
+left: 84px;
+top: 43px;
+
+font-family: 'Big Shoulders Display';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 57px;
+text-align: center;
+
+color: #000000;
+}
+
+
+
+
